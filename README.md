@@ -173,4 +173,4 @@ Este projeto faz parte de um desafio pessoal de aprendizado em **Ciência de Dad
 
 ---
 
-*Desenvolvido com 🤖 [Claude (Anthropic)](https://www.anthropic.com) + 🐍 Python*
+*Desenvolvido com 🤖 [Claude (Anthropic)](https://www.anthropic.com) + 🐍 Python By Brian Marpfy*
